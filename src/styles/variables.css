@@ -1,0 +1,21 @@
+:root {
+
+  --primary-color: #2563EB;
+  --secondary-color: #0F172A;
+  --accent-color: #F59E0B;
+
+  --success-color: #10B981;
+  --danger-color: #EF4444;
+
+  --background-color: #F8FAFC;
+  --card-color: #FFFFFF;
+
+  --text-dark: #1E293B;
+  --text-light: #64748B;
+
+  --border-color: #E2E8F0;
+
+  --border-radius: 12px;
+
+  --transition: 0.3s ease;
+}

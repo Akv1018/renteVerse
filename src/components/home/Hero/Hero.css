@@ -1,0 +1,49 @@
+.hero-section{
+    padding:0px 0;
+}
+
+.hero-badge{
+    display:inline-block;
+    background:#E0F2FE;
+    color:#2563EB;
+    padding:8px 18px;
+    border-radius:30px;
+    margin-bottom:20px;
+    font-weight:600;
+}
+
+.hero-title{
+    font-size:3.5rem;
+    font-weight:700;
+    color:var(--secondary-color);
+}
+
+.hero-text{
+    margin:25px 0;
+    color:var(--text-light);
+    line-height:1.8;
+    font-size:18px;
+}
+
+.hero-search{
+    max-width:500px;
+}
+
+.popular-tags{
+    display:flex;
+    justify-content: space-between;
+}
+
+.popular-tags span{
+    color: "black";
+    
+    padding:8px 18px;
+    border-radius:30px;
+    cursor:pointer;
+    transition:.3s;
+}
+
+.popular-tags span:hover{
+    background:var(--primary-color);
+    color:white;
+}
